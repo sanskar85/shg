@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049592774185",
+    "project_id": "shg-ledger",
+    "storage_bucket": "shg-ledger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049592774185:android:4518047fedfb10bc3e2638",
+        "android_client_info": {
+          "package_name": "com.shg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049592774185-judnkp7i1ggtblecklu47b0v9a83q5cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shg",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1049592774185-i2mp9c4qkg9203umct45oov3fied5kma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmzDzrUmoMg0LybGyB1uFWKZqUk1qJn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049592774185-i2mp9c4qkg9203umct45oov3fied5kma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

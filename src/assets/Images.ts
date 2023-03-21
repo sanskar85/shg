@@ -1,0 +1,13 @@
+export {default as PARTNERSHIP} from './images/partnership.svg';
+export {default as TICK} from './images/tick.svg';
+export {default as RUPEES} from './images/rupees.svg';
+export {default as GROUP} from './images/group.svg';
+export {default as USER} from './images/user.svg';
+export {default as LOAN} from './images/loan.svg';
+export {default as LOAN_RECOVERY} from './images/loan-recovery.svg';
+export {default as LOAN_INTEREST} from './images/loan-interest.svg';
+export {default as SETTINGS} from './images/settings.svg';
+export {default as REMOVE} from './images/remove.svg';
+export {default as REPORT} from './images/report.svg';
+export {default as CALENDAR} from './images/calendar.svg';
+export {default as FINE} from './images/fine.svg';

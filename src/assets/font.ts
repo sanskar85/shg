@@ -1,0 +1,10 @@
+export const SATOSHI_REGULAR = 'Satoshi-Regular';
+export const SATOSHI_BLACK = 'Satoshi-Black';
+export const SATOSHI_BLACK_ITALIC = 'Satoshi-BlackItalic';
+export const SATOSHI_BOLD = 'Satoshi-Bold';
+export const SATOSHI_BOLD_ITALIC = 'Satoshi-BoldItalic';
+export const SATOSHI_ITALIC = 'Satoshi-Italic';
+export const SATOSHI_LIGHT = 'Satoshi-Light';
+export const SATOSHI_LIGHT_ITALIC = 'Satoshi-LightItalic';
+export const SATOSHI_MEDIUM = 'Satoshi-Medium';
+export const SATOSHI_MEDIUM_ITALIC = 'Satoshi-MediumItalic';

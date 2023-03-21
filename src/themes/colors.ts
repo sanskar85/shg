@@ -1,0 +1,27 @@
+const COLORS = {
+  BACKGROUND: '#F5E1DA',
+  PRIMARY: '#F1F1F1',
+  PRIMARY_DARK: '#49BEB7',
+  ACTION: '#085F63',
+  ACTION_LIGHT: '#085F6380',
+  BLACK: '#000000',
+  BLACK_90: 'rgba(0,0,0,0.9)',
+  BLACK_70: 'rgba(0,0,0,0.7)',
+  BLACK_30: 'rgba(0,0,0,0.3)',
+  GRAY_DARK: '#333333',
+  GRAY_LIGHT_DARK: '#3C3E43',
+  GRAY: '#B0B0B0',
+  WHITE: '#FFFFFF',
+  OFF_WHITE: '#f9f9f9',
+  RED: '#FF0000',
+  RED_300: '#FF4D4D20',
+  SHADOW: '#E6E6E6',
+  GREEN: '#15b044',
+  BLUE: '#1048e3',
+  PINK: '#FF5F6D',
+  CYAN: '#3DBBAA',
+  NAVIGATION_BAR: '#292C33',
+  TRANSPARENT: 'transparent',
+};
+
+export default COLORS;
